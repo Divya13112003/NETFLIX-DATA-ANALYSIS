@@ -50,7 +50,7 @@ It includes data cleaning, exploratory data analysis (EDA), and visualization us
 ## 📌 How to Run
 1. Clone this repo:
 ```bash
-git clone https://github.com/your-username/netflix-movie-data-analysis.git
+git clone https://github.com/Divya13112003/netflix-movie-data-analysis.git
 ```
 2. Open Jupyter Notebook:
 ```bash
